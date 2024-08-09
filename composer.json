@@ -15,5 +15,7 @@
             "email": "im.jan.caser@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
