@@ -1,0 +1,21 @@
+{
+  "name": "pronto",
+  "version": "1.0.0",
+  "description": "A simple and fast static PHP site generator.",
+  "scripts": {
+    "dev": "php -S localhost:8000 public/index.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pronto-framework/pronto.git"
+  },
+  "keywords": [
+    "pronto"
+  ],
+  "author": "Juan Caser <caserjan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pronto-framework/pronto/issues"
+  },
+  "homepage": "https://github.com/pronto-framework/pronto#readme"
+}

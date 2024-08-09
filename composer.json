@@ -1,0 +1,19 @@
+{
+    "name": "pronto-framework/pronto",
+    "description": "A simple and fast static PHP site generator.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Pronto\\": "system/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan",
+            "email": "im.jan.caser@gmail.com"
+        }
+    ],
+    "require": {}
+}
