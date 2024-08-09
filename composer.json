@@ -3,6 +3,7 @@
     "description": "A simple and fast static PHP site generator.",
     "type": "project",
     "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "App\\": "app/",
