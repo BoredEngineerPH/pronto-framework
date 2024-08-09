@@ -16,6 +16,12 @@
             "email": "im.jan.caser@gmail.com"
         }
     ],
+    "repositories": [
+        {
+           "type": "vcs",
+           "url": "https://github.com/BoredEngineerPH/pronto-framework" 
+        }
+    ],
     "require": {
         "php": ">=7.4"
     }
